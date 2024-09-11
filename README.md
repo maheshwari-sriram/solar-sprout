@@ -3,6 +3,11 @@ Developed an automated irrigation system using solar energy( IOT project): Solar
 # Circuit1 [Solar Tracking]
 ![Screenshot (2)](https://github.com/user-attachments/assets/e104eb0f-4374-466b-bf25-9ddece69732a)
 # Circuit2 [Smart Irrigation]
-![Screenshot (2)](https://github.com/user-attachments/assets/99ba1197-6cc7-4370-ba06-c142314f8e90)
+![Screenshot (5)](https://github.com/user-attachments/assets/4703967f-ba2c-4191-8181-cb2fbb47d72d)
+# Results
+Comparision analysis between Static, Single-axis, Dual-axis trackers
+![Screenshot (4)](https://github.com/user-attachments/assets/fcf03d86-85bb-4b02-8db8-9c0ef855e8da)
+
+
 
 
